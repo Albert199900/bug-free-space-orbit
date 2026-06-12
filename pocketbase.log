@@ -1,0 +1,5 @@
+nohup: ignoring input
+2026/06/12 08:20:02 Server started at http://0.0.0.0:8090
+├─ REST API: http://0.0.0.0:8090/api/
+└─ Admin UI: http://0.0.0.0:8090/_/
+Error: listen tcp 0.0.0.0:8090: bind: address already in use
